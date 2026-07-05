@@ -1,9 +1,5 @@
 # ACCESS CONTROL FILES
-
-Aquí tienes un resumen súper directo, limpio y estructurado, listo para copiar y pegar en tu repositorio de Git (por ejemplo, en un archivo `README.md` o tus notas):
-
 ---
-
 # Control de Acceso en Linux (Resumen)
 
 El control de acceso en Linux se gestiona a través de archivos de configuración clave que definen la identidad, los privilegios y los permisos de red en el sistema.
@@ -27,7 +23,7 @@ El control de acceso en Linux se gestiona a través de archivos de configuració
 
 * **ACLs (Listas de Control de Acceso)**: Permisos granulares aplicados directamente a archivos y carpetas para usuarios específicos.
 * **SELinux / AppArmor**: Políticas de seguridad que restringen las acciones de procesos y usuarios (incluso de `root`).
-
+---
   - Take me to the [Tutorial](https://kodekloud.com/topic/access-control-files/)
   
   - Access Ccontrol files are stored under **`/etc`**.
